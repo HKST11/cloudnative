@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: harshit01-container
-        image: <Image>
+        image: barclaysacr02.azurecr.io/harshitcloud01:v1
         resources:
           limits:
             memory: "128Mi"
